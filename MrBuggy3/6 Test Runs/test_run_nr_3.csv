@@ -1,0 +1,6 @@
+﻿"ID","Title","Assigned To","Case ID","Comment","Defects","Elapsed","Estimate","Forecast","In Progress","Plan","Plan ID","Priority","References","Run","Run Configuration","Run ID","Section","Section Depth","Section Description","Status","Tested By","Tested On","Type","Version"
+"T17","Przypisanie klas defektów do każdego zadania","","C16","","","","","","","","","Medium","","Test Run nr 3","","R3","Mr Buggy","0","","Passed","Ludwika Martin","5/17/2022 5:46 PM","Other",""
+"T18","Sprawdzenie funkcji blokady konta po 3-krotnym wpisaniu błednego hasła","","C17","","","","","","","","","Medium","","Test Run nr 3","","R3","Mr Buggy","0","","Passed","Ludwika Martin","5/17/2022 5:46 PM","Other",""
+"T19","Rejestracja konta przy użyciu hasła składającego się z 8 znaków","","C18","","","","","","","","","Medium","","Test Run nr 3","","R3","Mr Buggy","0","","Passed","Ludwika Martin","5/17/2022 5:46 PM","Other",""
+"T20","Zmiana ilości punktów na wersji serwerowej aplikacji Mr Buggy 3","","C19","","","","","","","","","Medium","","Test Run nr 3","","R3","Mr Buggy","0","","Blocked","Ludwika Martin","5/17/2022 5:46 PM","Other",""
+"T21","Przypisanie klas defektów do każdego zadania fail","","C20","","PK-45","","","","","","","Medium","","Test Run nr 3","","R3","Mr Buggy","0","","Failed","Ludwika Martin","5/17/2022 6:56 PM","Other",""

@@ -1,0 +1,6 @@
+﻿"ID","Title","Assigned To","Case ID","Comment","Defects","Elapsed","Estimate","Forecast","In Progress","Plan","Plan ID","Priority","References","Run","Run Configuration","Run ID","Section","Section Depth","Section Description","Status","Tested By","Tested On","Type","Version"
+"T12","Zablokowana możliwość raportowania defektów w trybie członka drużyny.","","C10","","","","","","","","","Medium","","Test Run nr 2","","R2","Mr Buggy","0","","Passed","Ludwika Martin","5/17/2022 5:45 PM","Other",""
+"T13","Sprawdzenie możliwości zarejestrowania się w aplikacji MrBuggy przy użyciu loginu o konkretnych wymaganiach","","C11","","","","","","","","","Medium","","Test Run nr 2","","R2","Mr Buggy","0","","Passed","Ludwika Martin","5/17/2022 5:45 PM","Other",""
+"T14","Logowanie do aplikacji MrBuggy","","C12","","","","","","","","","Medium","","Test Run nr 2","","R2","Mr Buggy","0","","Passed","Ludwika Martin","5/17/2022 5:45 PM","Other",""
+"T25","Niespodziewane zamknięcie aplikacji","","C13","","PK-15","","","","","","","Medium","","Test Run nr 2","","R2","Mr Buggy","0","","Failed","Ludwika Martin","5/17/2022 6:55 PM","Other",""
+"T26","Próba utworzenia kopi zapasowej, w trybie zawodnika aplikacji.","","C14","","","","","","","","","Medium","","Test Run nr 2","","R2","Mr Buggy","0","","Passed","Ludwika Martin","5/17/2022 5:47 PM","Other",""
