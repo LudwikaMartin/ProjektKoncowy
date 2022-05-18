@@ -1,0 +1,40 @@
+,"Miejsce w specyfikacji, gdzie jest błąd",Co jest błędem,Jak powinno być
+1,str 6,Wymagane są cztery wersje aplikacji klienckiej - wymienione są trzy,3
+2,str 10,"Przycisk “Zaraportuj defekt” - ma zapisać wersję w przypadku awarii, jednak na str 8-9 jest mowa o przycisku ""znalazłem defekt"", który nie jest wymieniony w interfejsie","""znalazłem defekt"""
+3,str. 10,"Pole ""Czas"" - podano format czasu gg:mm:ss, a słownie godziny, minuty, sekundy, milisekundy",gg:mm:ss
+4,str 11,"Brak opisu przycisku widocznego na interfejsie jako ""Status połączenia""","Opis przycisk ""Status połączenia"" w punkcie 6.1"
+5,str 6,Dokument ten przedstawia specyfikację aplikacji MrBuggy 2015.,MrBuggy 3
+6,str 10,"brak informacji o komunikacie - tresci, jaka ma byc na potwierdzeniu czynnosci",
+7,str. 12,brak jednostek do wzoru wydajności aplikacji,
+8,str.12,nie jest to wzór na wydajność - konieczne doprecyzowanie,
+9,str. 12,wielkość pliku 2MB1 - sprecyzować wielkość i jednostkę,2MB
+10,12,hasło musi składać się z co najmniej 20 znaków i zawierać przynajmniej jedną,10
+11,12,login musi składać się z 2 do 8 znaków,2 do 8
+12,str. 8,"W przypadku braku połączenia sieciowego - za pomocą funkcji eksportu
+z części klienckiej i importu w części serwerowej. Opis tej funkcjonalności
+zostanie przedstawiony w dalszej części - brak opisu w dalszej części",
+13,Str. 7,"W części wymagań środowiskowych jest informacja o dowolności jeśli chodzi o język, w jakim ma zostać napisana aplikacja, natomiast w dalszej części jest wymaganie java 7 odnośnie aplikacji serverowej",dowolność
+14,str. 8,niesprecyzowana ilość trybów pracy w wybranej kategorii,tak jak w specyfikacji
+15,strona 5 i 13,"""instalator aplikacji - program, który zainstaluje aplikację MrBuggy 3
+w środowisku docelowym"", a następnie jest napisane, że instalator nie jest wymagany",instalator nie jest wymagany
+16,Strona 8,"W jaki sposób aplikacja ma rozpoznawać, że w tryb kapitana wchodzi faktyczny kapitan drużyny?",
+17,Strona 13,w ciągu roku średnia ilość awarii (rozumianych jako ilość niespodziewanych wyłączeń aplikacji wymagających skorzystania z kopii zapasowej) w jednym dniu nie może być większa niż 1,P: Czy średnia ilości awarii w ciągu roku 1/dzień czy nie więcej awarii niż jedna w ciągu dnia?
+18,Strona 13,w ciągu roku średnia ilość awarii (rozumianych jako ilość niespodziewanych wyłączeń aplikacji wymagających skorzystania z kopii zapasowej) w jednym dniu nie może być większa niż 1,P: Jak mamy przetestować taką niezawodność?
+19,Strona 10,Pole “Opis problemu” - zawiera ogólną informację na temat zadania wyświetlonego w polu “Zadania” wraz z ilością punktów za dane zadanie,
+22,strona 10,Zasady numeracji zadań są opisane poniżej-brakuje opisu numeracji zadań,
+23,6 i 13,Na stronie 6 wspomniane że wersji demonstracyjnej znajduje się 1 defekt/zadanie a na str 13 są opisane 2 zadania,1
+24,str 9,brak automatycznych kryteriów oceniania,
+25,Str 9,"Czy aplikacja ma raportować ruchy użytkownika w momencie utraty połączenia, aby uniknąć oszustw.",
+26,str 14,źle określony zakres punktowy w defekcie krytycznym,Defekt krytyczny (od 5 do 6 punktów)
+27,str.7,w jaki sposób przekazywać bezpośrednio plik tekstowy z części klienckiej do częsci serwerowej w przypadku działającego połączenia internetowego,
+28,str.8,gdzie należy przechowywać kopie zapasowe,
+29,strona 13,"""tokeny do konta mają być generowane losowo"" - brak opisu tokenu",
+30,strona 13,"""konto musi zostać zablokowane po 3 krotnym wpisaniu błędnego hasła lub
+jego części"" - część hasła jest błędnym hasłem",konto musi zostać zablokowane po 3 krotnym wpisaniu błędnego hasła
+31,str 13,"musi zostać zaimplementowana procedura zakładania, przywracania oraz odblokowywania konta",jak dokładnie ma być zaimplementowana
+32,str 11,Okno powinno być estetyczne. Co to znaczy estetyczne?,
+33,str 6,wersja demonstracyjna - zostanie wysłana wszystkim uczestnikom przed Mistrzostwami-doprecyzować kiedy zostanie wysłana,
+34,Str. 9,Umożliwić wygenerowanie raportu zbiorczego uwzględniającym poniższe dane:,"P: Czy funkcja ma możłiwość tylko generowania raportu czy też zapisu, eksportowania do innge pliku (zapisu)?"
+35,str 12,dostęp do części serwerowej aplikacji musi być zabezpieczony loginem i hasłem. a co z częścią kliencką? niezabezpieczona loginem i hasłem?,musi być zabezpieczony loginem i hasłem
+36,str. 9,"Na bieżąco zliczać ilość odebranych od uczestników raportów z zadań - doprecyzować gdzie to wykorzystać,do czego używać",
+37,,,
