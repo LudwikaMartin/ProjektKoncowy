@@ -6,4 +6,5 @@ Wyżej wymieniony plik załączono w dwóch formatach: CSV i PDF, które umożli
 Plik [Projekt koncowy ZDTESTpol93 - Przypadki testowe], przedstawia przykładowy scenariusz testowy,  
 zaimplementowano go w popularnym narzędziu TestRail, który służy do tworzenia i zarządzania przypadkami testowymi.  
 Korzystałam z darmowej wersji TestRail, dlatego konto jest ważne wyłacznie przez okres 14 dni. 
+dostęp: lumartin.testrail.io
 ```
