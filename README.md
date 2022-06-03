@@ -1,6 +1,6 @@
 # ProjektKoncowy  
 ProjektKoncowy, który tu stworzyłam powstał przy współpracy członków grupy ZDTESTpol93 pod okiem trenera na zajęciach organizowanych w Software Development Academy.  
-Projekt miał za zadanie symulację zadań na stanowsku testera oprogramowania.  
+Projekt miał za zadanie symulację zadań na stanowisku testera oprogramowania.  
 Przedmiotem pracy jest aplikacja MrBuggy3, która została poddana kolejnym procesom:   
   
 1 Analiza specyfikacji  
