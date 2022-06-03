@@ -1,7 +1,8 @@
 #  Przypadki testowe  
 Plik [Projekt koncowy ZDTESTpol93 - Przypadki testowe], przedstawia przykładowy scenariusz testowy,  
 zaimplementowano go w popularnym narzędziu TestRail, który służy do tworzenia i zarządzania przypadkami testowymi.  
-Korzystałam z darmowej wersji TestRail, dlatego konto jest ważne wyłacznie przez okres 14 dni. Dostęp: 
+Korzystałam z darmowej wersji TestRail, dlatego konto jest ważne wyłacznie przez okres 14 dni.  
+Dostęp do przypadków testowychw zakładce Test Cases pod adresem: 
 
 ```  
 https://lumartin.testrail.io  
