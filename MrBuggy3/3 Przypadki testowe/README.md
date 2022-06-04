@@ -6,9 +6,16 @@ Dostęp do przypadków testowychw zakładce Test Cases pod adresem:
 
 ```  
 https://lumartin.testrail.io  
-login: xofilar770@oceore.com
-hasło: MRbuggy3!
 ```
+login: 
+```
+xofilar770@oceore.com
+```
+hasło:
+```
+MRbuggy3!
+```
+
   
 <sup> W tym folderze znajduje plik [Projekt koncowy ZDTESTpol93 - Przypadki testowe], który został stworzony na podstawie Specyfikacji aplikacji MrBuggy 3 dostępnej na stronie internetowej: </sup>
 ```
