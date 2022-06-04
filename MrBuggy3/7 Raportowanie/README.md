@@ -8,3 +8,11 @@ Dostęp do raportów w zakładce Raporty/ Reports pod adresem:
 ```  
 https://lumartin.testrail.io  
 ```
+login: 
+```
+xofilar770@oceore.com
+```
+hasło:
+```
+MRbuggy3!
+```
