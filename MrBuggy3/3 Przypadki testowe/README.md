@@ -6,9 +6,11 @@ Dostęp do przypadków testowychw zakładce Test Cases pod adresem:
 
 ```  
 https://lumartin.testrail.io  
+login: xofilar770@oceore.com
+hasło: MRbuggy3!
 ```
   
-<sup> W tym folderze znajduje plik [Projekt koncowy ZDTESTpol93 - Nieścisłości], który został stworzony na podstawie Specyfikacji aplikacji MrBuggy 3 dostępnej na stronie internetowej: </sup>
+<sup> W tym folderze znajduje plik [Projekt koncowy ZDTESTpol93 - Przypadki testowe], który został stworzony na podstawie Specyfikacji aplikacji MrBuggy 3 dostępnej na stronie internetowej: </sup>
 ```
 http://mrbuggy.pl/mrbuggy3/dfiles/Specyfikacja_Mr_Buggy_3.pdf
 ```  
