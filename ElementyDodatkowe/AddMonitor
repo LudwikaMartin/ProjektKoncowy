@@ -1,6 +1,3 @@
-InteliJ
-
-// FOLDER: main/resources/feature/AddMonitor.feature
 ```
 Feature: Add monitor to the basket
 
@@ -9,7 +6,7 @@ Feature: Add monitor to the basket
     When add monitor to the basket
     Then Message: Added monitor to the basket
 ```
-// FOLDER: test/java/CucumberSteps/AddMonitor.java
+
 ```
 package CucumberSteps;
 
