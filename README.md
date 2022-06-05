@@ -13,3 +13,5 @@ Przedmiotem pracy jest aplikacja MrBuggy3, która została poddana kolejnym proc
   
 W folderze MrBuggy3 zostały utworzone foldery o tych samych nazwach, w których zawarto studium poszczególnych etapów.
  
+  
+Dodatkowymi elementami zawartymi w projekcie są samodzielnie przygotowane przykłady korzystania z narzędzi: TestRail, JIRA, Selenium IDE, oraz przepisanie wybranego przypadku testowego za pomocą Behavior Driven Development.
