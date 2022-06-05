@@ -1,0 +1,139 @@
+{
+  "id": "c0ad217c-60bc-47e2-b3fb-3dfe8c8c06fd",
+  "version": "2.0",
+  "name": "ZakupMonitora",
+  "url": "https://www.x-kom.pl/",
+  "tests": [{
+    "id": "053e9b90-ec8d-44b7-9f83-d67909024c24",
+    "name": "Dodanie przedmiotu do koszyka",
+    "commands": [{
+      "id": "f4eb0fd2-ec8e-4290-a674-988784583a15",
+      "comment": "",
+      "command": "open",
+      "target": "https://www.google.com/search?gs_ssp=eJzj4tVP1zc0TKkqMS3MKixRYDRgdGDwYq3Qzc7PBQBlWQdT&q=x-kom&oq=x-&aqs=chrome.2.69i57j35i39j46i39i199i291j46i175i199i512j0i395i512j69i60l3.3916j1j4&sourceid=chrome&ie=UTF-8",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9eff5759-4687-435b-99eb-a1dbc226a50f",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1552x840",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "914b112d-e7e0-4993-9466-b03af7847877",
+      "comment": "",
+      "command": "click",
+      "target": "css=.tF2Cxc > .yuRUbf .LC20lb",
+      "targets": [
+        ["css=.tF2Cxc > .yuRUbf .LC20lb", "css:finder"],
+        ["xpath=//div[@id='rso']/div/div/div/div/div/div/div/div/a/h3", "xpath:idRelative"],
+        ["xpath=//h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'x-kom.pl - Sklep komputerowy')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "4c095304-7e82-49b1-ba7a-88b2f11cf60b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.suk8z4-0",
+      "targets": [
+        ["css=.suk8z4-0", "css:finder"],
+        ["xpath=//input[@value='']", "xpath:attributes"],
+        ["xpath=//div[@id='app']/div/header/div/div[3]/div/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "0c54580f-fb99-457e-94e8-364f47fb2b54",
+      "comment": "",
+      "command": "type",
+      "target": "css=.suk8z4-0",
+      "targets": [
+        ["css=.suk8z4-0", "css:finder"],
+        ["xpath=//input[@value='monitor dell']", "xpath:attributes"],
+        ["xpath=//div[@id='app']/div/header/div/div[3]/div/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "monitor dell"
+    }, {
+      "id": "1bf19c73-644c-4543-961d-78d7ec5022d7",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "css=.suk8z4-0",
+      "targets": [
+        ["css=.suk8z4-0", "css:finder"],
+        ["xpath=//input[@value='monitor dell']", "xpath:attributes"],
+        ["xpath=//div[@id='app']/div/header/div/div[3]/div/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "b225d9ab-886b-4800-8aa4-111901a8b8c5",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,4.800000190734863)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6682bf9b-a935-4fca-a223-69ccb723a7ba",
+      "comment": "",
+      "command": "click",
+      "target": "css=.sc-1mqx5n1-0:nth-child(8) > .cs8ibv-0:nth-child(2) svg",
+      "targets": [
+        ["css=.sc-1mqx5n1-0:nth-child(8) > .cs8ibv-0:nth-child(2) svg", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "f7aed459-446f-46c7-8774-1fdc11f311db",
+      "comment": "",
+      "command": "click",
+      "target": "css=.sc-1mqx5n1-0:nth-child(9) > .cs8ibv-0:nth-child(4) .sc-1sjec7y-3 svg",
+      "targets": [
+        ["css=.sc-1mqx5n1-0:nth-child(9) > .cs8ibv-0:nth-child(4) .sc-1sjec7y-3 svg", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "a6898b47-f3f7-4bc7-a2a0-90048667ff6c",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,952.7999877929688)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e6ac53b3-c902-4bae-a924-bf23868f94d1",
+      "comment": "",
+      "command": "click",
+      "target": "id=react-select-id2--value-item",
+      "targets": [
+        ["id=react-select-id2--value-item", "id"],
+        ["css=#react-select-id2--value-item", "css:finder"],
+        ["xpath=//span[@id='react-select-id2--value-item']", "xpath:attributes"],
+        ["xpath=//span[@id='react-select-id2--value']/div/span", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/span/div/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "de96de63-7ce9-4035-956d-fd8eb98cb12f",
+      "comment": "",
+      "command": "mouseUp",
+      "target": "css=.uhtf8l-1",
+      "targets": [
+        ["css=.uhtf8l-1", "css:finder"],
+        ["xpath=//div[@id='app']/div[2]/div[4]/div[2]/div/div/div[2]/div", "xpath:idRelative"],
+        ["xpath=//div[4]/div[2]/div/div/div[2]/div", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "a9f5ad30-bd2d-46e4-960a-55a27cc89330",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["053e9b90-ec8d-44b7-9f83-d67909024c24"]
+  }],
+  "urls": ["https://www.x-kom.pl/"],
+  "plugins": []
+}
